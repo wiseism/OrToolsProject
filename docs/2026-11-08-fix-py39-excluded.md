@@ -22,4 +22,4 @@ setup-python@v4 也无法从源码/缓存取到该版本，matrix 组合 `ubuntu
 ## 验证
 | run id | 结果 |
 | --- | --- |
-| 本次推送触发 | 待填 |
+| 42590376904 | ✅ success |
